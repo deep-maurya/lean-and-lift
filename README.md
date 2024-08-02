@@ -23,59 +23,13 @@ In the modern era, maintaining a healthy lifestyle is increasingly important. Wi
  ├─ src/
  │ ├─ assets/
  │ ├─ Pages/
- |  ├─ AboutPage.jsx
- |  ├─ AdminPanel.jsx
- |  ├─ ArticlesPage.jsx
- |  ├─ Dashboard.jsx
- |  ├─ ForgetPasswordPage.jsx
- |  ├─ HomePage.jsx
- |  ├─ LoginPage.jsx
- |  ├─ ProfilePage.jsx
- |  ├─ RegisterPage.jsx
- |  ├─ ServicePage.jsx
  │ ├─ components/
  |  ├─ blogs/
- |   ├─ BlogDetail.jsx
- |   ├─ Blogs.jsx
- |   ├─ Data.jsx
- | ├─ LandingPages /  
- |  ├─ About.jsx      
- |   ├─ Features.jsx
- |   ├─ Footer.jsx
- |   ├─ ForgetPassword.jsx
- |   ├─ Goals.jsx
- |   ├─ GoogleAi.jsx
- |   ├─ Hero.jsx
- |   ├─ Login.jsx
- |   ├─ Navbar.jsx
- |   ├─ PagenotFound.jsx  
- |   ├─ Register.jsx 
- |   ├─ Solutions.jsx 
- |   ├─ Testimonials.jsx                   
+ | ├─ LandingPages /                   
  | ├─ ProfileInfo /
- |  ├─ ChangePlan.jsx
- |  ├─ ExerciseCalender.jsx
- |  ├─ FoodDetails.jsx
- |  ├─ ProfileDetails.jsx
- |  ├─ SelectedPlan.jsx
  | ├─ firebase /
- |  ├─ AuthRoute.jsx   
- |  ├─ FetchAllData.jsx
- | ├─ config/ 
- |  ├─ config.js
- |  ├─ firebase.js
- |  ├─  useAuth.js        
+ | ├─ config/      
  | ├─ routes/
- |  ├─ AllRoutes.jsx/
- | ├─   react.svg
- ├─ .env
- ├─ .eslintrc.cjs
- ├─ .gitignore
- ├─ README.md
- ├─ index.html
- ├─ package-lock.json
- ├─ package.json
- ├─ vite.config.js
 </pre>
 
 
